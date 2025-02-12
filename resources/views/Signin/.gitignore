@@ -1,0 +1,14 @@
+# Laravel
+/vendor
+/node_modules
+/.env
+/public/storage
+/storage/*.key
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.idea
+*.iml
